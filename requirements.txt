@@ -42,14 +42,9 @@ PyAutoGUI==0.9.53
 pycparser==2.21
 pygame==2.0.1
 PyGetWindow==0.0.9
-pyinstaller==4.7
-pyinstaller-hooks-contrib==2021.3
-pymorphy2==0.9.1
-pymorphy2-dicts-ru==2.4.417127.4579844
 PyMsgBox==1.0.9
 PyNaCl==1.5.0
 pyperclip==1.8.2
-pypiwin32==223
 PyQt5==5.15.4
 pyqt5-plugins==5.15.4.2.2
 PyQt5-Qt5==5.15.2
